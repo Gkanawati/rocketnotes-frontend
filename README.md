@@ -2,23 +2,23 @@
   📝📚 RocketNotes - App de Anotações
 </h1>
 
-## :rocket: Sobre o projeto
+## 🚀 Sobre o projeto
 
 Projeto de Anotações, construído com React.
 Possui Integração com Backend via api.
 Os dados são persistidos com SQLite.
 
-## :link: Link do projeto:
+## 🔗 Link do projeto:
 
 https://rocketnotes-gk.netlify.app/
 
-## :bulb: Tecnologias usadas:
+## 💡 Tecnologias usadas:
 
 - `React`
 - `Javascript`
 - `Styled Components`
 
-## :gear: Como rodar o Projeto Localmente:
+## 💻 Como rodar o Projeto Localmente:
 
 -Para instalar todas as bibliotecas usadas no projeto rode o comando:
 
